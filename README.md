@@ -1,2 +1,2 @@
-# library
-made on vcs
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
